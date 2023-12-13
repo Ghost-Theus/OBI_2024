@@ -15,7 +15,3 @@ elif v == 1 or v == 2:
     print("3")
 else:
     print("-1")
-
-
-
-
