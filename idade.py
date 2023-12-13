@@ -10,6 +10,6 @@ idades[0] = idd1
 idades[1] = idd2
 idades[2] = idd3
 
-idades.sort
+idades.sort()
 
 print(idades[1])

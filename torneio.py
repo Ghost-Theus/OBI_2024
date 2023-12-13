@@ -1,13 +1,11 @@
 # https://olimpiada.ic.unicamp.br/pratique/pj/2021/f1/torneio/
 
 v = 0
-p = 0
+
 for i in range(6):
     res = input()
     if res == "V":
         v += 1
-    else:
-        p += 1
 
 if v == 5 or v == 6:
     print("1")
